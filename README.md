@@ -21,6 +21,7 @@ A RESTful API for managing a bookstore with user authentication and file-based d
 - **bcryptjs**: Password hashing
 - **UUID**: Unique ID generation
 - **File System**: JSON file-based data persistence
+- **Jest Testing**
 
 ## Setup Instructions
 
